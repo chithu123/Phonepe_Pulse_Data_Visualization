@@ -1,5 +1,12 @@
-#Phonepe_Pulse_Data_Visualization
+
+<html>
+<body >
+
 <h2>Data Visualization and Exploration : A User-Friendly Tool Using Streamlit and Plotly</h2>
+
+<div style="text-align: left;"><img src="https://github.com/chithu123/Phonepe_Pulse_Data_Visualization/blob/main/PhonePe_Logo.jpg"  alt="My Image" /></div>
+
+
 <h3>PhonePe Pulse Data Visualization 2018-2022</h3>
   
 <p style="sampletext" >This project is a data visualization tool for PhonePe's pulse data from 2018 to 2022. It allows users to explore and analyze various metrics related to PhonePe's business performance.</p>
@@ -33,6 +40,8 @@ Creating home page for better understanding to visualize the data
 <li>MySQL: For storing and retrieving data.</li>
 <li>Streamlit: For building the user interface and deploying the application.</li>
 <li>Plotly Express: For data visualization.</li></ul>
+</body>
+</html>
 
 
 
