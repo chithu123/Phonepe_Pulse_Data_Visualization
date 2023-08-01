@@ -9,7 +9,33 @@ Creating home page for better understanding to visualize the data
 
 <h3>Please click this to see demo video of my project? - <a href ="youtu.be/_1r8J72hKp4 ">Click here</a><h3>
 
-<img src="//[www.html.am/images/image-codes/milford_sound_t.jpg](https://github.com/chithu123/Phonepe_Pulse_Data_Visualization/blob/main/statewisedata.png)https://github.com/chithu123/Phonepe_Pulse_Data_Visualization/blob/main/statewisedata.png" width="225" height="151" alt="Phonepe_Pulse_Data_Visualization" />
+<h2>Transaction Analysis</h2>
+
+<img src="https://github.com/chithu123/Phonepe_Pulse_Data_Visualization/blob/main/statewisedata.png"  alt="Phonepe_Pulse_Data_Visualization" />
+
+<h2>User Analysis</h2>
+<img src="https://github.com/chithu123/Phonepe_Pulse_Data_Visualization/blob/main/statewiseuser.png"  alt="Phonepe_Pulse_Data_Visualization" />
+
+<h2>User Analysis</h2>
+
+<img src="https://github.com/chithu123/Phonepe_Pulse_Data_Visualization/blob/main/districtwise.png"  alt="Phonepe_Pulse_Data_Visualization" />
+
+<h3>Installation and cloning</h3>
+
+<p>Clone the repository to your local machine using git clone https://github.com/PhonePe/pulse.git Install the required Python packages by running pip install -r requirements.txt</p>
+<h3>MySQL Database</h3>
+<p>After cloning the data will be uploaded to database through pymysql and create engine in Sqlalchemy for database connection.</p>
+<h3>Usage</h3>
+<p>Run python phonepe.py to start the application. Access the application in your web browser by navigating to http://localhost:8501 Select the desired date range and metrics to visualize. Explore the data using the interactive charts provided by Plotly Express.</p>
+<h4>Technology Used Here</h4>
+<ul><li style ="bullet">Github: For cloning the PhonePe Pulse data.</li>
+<li>Python: For scripting and data processing.</li>
+<li>MySQL: For storing and retrieving data.</li>
+<li>Streamlit: For building the user interface and deploying the application.</li>
+<li>Plotly Express: For data visualization.</li></ul>
+
+
+
 
 
 
