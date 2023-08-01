@@ -9,5 +9,8 @@ Creating home page for better understanding to visualize the data
 
 <h3>Please click this to see demo video of my project? - <a href ="youtu.be/_1r8J72hKp4 ">Click here</a><h3>
 
+<img src="//[www.html.am/images/image-codes/milford_sound_t.jpg](https://github.com/chithu123/Phonepe_Pulse_Data_Visualization/blob/main/statewisedata.png)https://github.com/chithu123/Phonepe_Pulse_Data_Visualization/blob/main/statewisedata.png" width="225" height="151" alt="Phonepe_Pulse_Data_Visualization" />
+
+
 
 
